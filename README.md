@@ -1,6 +1,6 @@
 # CIFAR-10 CNN Classification
 
-Welcome to the CIFAR-10 CNN Classification project repository! This project showcases a Convolutional Neural Network (CNN) model designed for the classification of images in the CIFAR-10 dataset. 
+This project showcases a Convolutional Neural Network (CNN) model designed for the classification of images in the CIFAR-10 dataset. 
 The model has achieved an impressive accuracy rate of 77% when evaluated against the test dataset.
 
 ## About CIFAR-10
